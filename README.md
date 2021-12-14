@@ -2,7 +2,7 @@
 
 Los onderstaande vragen zo compleet mogelijk op. Voorzie figuren waar mogelijk. Gelieve ook te letten op spelling en grammatica.
 
-Geen copy/paste van Internet. De bedoeling is dat je wat onderzoek doet en met je eigen woorden de vragen beantwoord.
+Geen copy/paste van Internet. De bedoeling is dat je wat onderzoek doet en met je eigen woorden de vragen beantwoord. Vermeld ook onderaan het document je bronnen.
 
 ## I2C
 
